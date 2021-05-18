@@ -1,1 +1,14 @@
-
+#box{
+    width: 500px;
+    height: auto;
+}
+.para1, .para2{
+    color: grey;
+}
+#box > .para3{
+    color: teal;
+}
+span{
+    font-weight: bold;
+    color: black;
+}
