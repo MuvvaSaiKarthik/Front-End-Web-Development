@@ -1,1 +1,10 @@
-
+div{
+    width: 500px;
+    height: auto;
+    background-color: red;
+    border: 2px solid orange;
+    padding: 20px;
+    margin: 20px;
+    font-family: sans-serif;
+    color: white;
+}
